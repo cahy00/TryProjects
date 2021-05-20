@@ -1,0 +1,25 @@
+{
+  "name": "exblog",
+  "version": "1.0.0",
+  "description": "my another blog website using MEEN",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cahy00/TryProjects.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "ejs"
+  ],
+  "author": "Cahyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cahy00/TryProjects/issues"
+  },
+  "homepage": "https://github.com/cahy00/TryProjects#readme"
+}
