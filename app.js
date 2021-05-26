@@ -1,12 +1,7 @@
 const express = require("express");
 const app = express();
 
-appjhjhjhjhdskjdkjs;
-sdsdsds;
-sddsdsd;
-asasasas;
-dsdsd;
-dsds;
+app;
 
 const PORT = 5000;
 app.listen(PORT, () => {
